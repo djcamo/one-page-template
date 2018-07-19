@@ -104,7 +104,7 @@ body {
   }
   
   #topbar .social-links a:hover {
-    color: $primary-colour;
+    color: $secondary-colour;
   }
   
   #topbar .social-links a:first-child {
@@ -841,7 +841,7 @@ body {
   /* Call To Action Section
   --------------------------------*/
   #call-to-action {
-    background: #081e5b;
+    background: $primary-colour;
     background-size: cover;
     padding: 40px 0;
   }
